@@ -2,8 +2,8 @@
 
 ( ﾉ ﾟｰﾟ)ｼ☆
 
-- 🔭 I’m currently working on - Game C++/SFML
-- 🌱 I’m currently learning - CS, DSA, C++, SFML
+- 🔭 I’m currently working on - Mini projects with C++/SFML
+- 🌱 I’m currently learning - CS, DSA, C++, SFML, etc.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
